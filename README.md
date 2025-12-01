@@ -1,7 +1,7 @@
 
 # Emoji Cleaner
 
-**Emoji Cleaner** is a Visual Studio Code extension that removes all emojis from your project files — safely.
+**Emoji Cleaner** is a Visual Studio Code extension that removes all emojis from your project files safely.
 If you're tired of seeing random smileys, flags, invisible Unicode gremlins, or AI-generated emoji artifacts inside your code, this extension cleans them up **without breaking your files**.
 
 No emojis. No corruption. No stress.
